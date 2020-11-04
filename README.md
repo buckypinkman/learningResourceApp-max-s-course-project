@@ -1,4 +1,4 @@
-# first-vue3-app
+# learning-resource-app
 
 ## Project setup
 ```
